@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% block title %}Home{% endblock %}
+{% block content %}
+<div class="container py-5">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header" align="center">
+                    <h3>Fire Detection</h3> 
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-9">
+                            <img src={{url_for('detection.video_feed')}} class="img-fluid">
+                            <!-- <img src="{{ url_for('detection.video_feed') }}" width="100%"> -->
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card align-items-center d-flex h-100">
+                                <img src="../static/logo.webp" class="card-img-top mt-3" style="width: 100px;" alt="logo">
+                                <div class="card-body">
+                                  <h5 class="card-title align-items-center" align="center">Fire Detection</h5>
+                                  <p class="card-text text-center">
+                                    Fire Detection System merupakan sistem deteksi api berbasis Deep Learning dengan algoritma Convoutional Neural Network pada low cost embedded system Raspberry Pi
+                                    </p>
+                                </div>
+                                <form method="post" role="form" action="/status_streaming" class="list-group list-group-flush align-items-center col-12">
+                                    <li class="form-outline list-group-item col-12">
+                                      <input type="submit" name="status_streaming" value="Start Streaming" class="btn btn-primary col-12 form-control">
+                                    </li>
+                                    <li class="form-outline list-group-item col-12">
+                                      <input type="submit"  name="status_streaming" value="Close Streaming" class="btn btn-danger col-12 form-control">
+                                    </li>
+                                  </form>
+                                </ul>
+                              </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
