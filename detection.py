@@ -70,7 +70,7 @@ def status_streaming():
         elif request.form.get('status_streaming') == 'Close Streaming':
             print("Close")
             global camera
-            camera = cv2.VideoCapture(0)
+            camera = cv2.VideoCapture(-1)
             if camera.isOpened():
                 print("Releasing cam feed")
                 camera.release()

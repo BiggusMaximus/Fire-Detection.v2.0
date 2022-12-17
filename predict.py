@@ -30,7 +30,7 @@ input_details = interpreter.get_input_details()
 output_details = interpreter.get_output_details()
 
 
-vid = cv2.VideoCapture(0)
+vid = cv2.VideoCapture(-1)
 
 
 def detection(frame):
