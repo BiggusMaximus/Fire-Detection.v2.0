@@ -1,2 +1,3 @@
 ./model/*
 ./model/*.tflite
+__pycache__
