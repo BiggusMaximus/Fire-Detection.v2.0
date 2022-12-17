@@ -30,9 +30,6 @@ input_details = interpreter.get_input_details()
 output_details = interpreter.get_output_details()
 
 
-vid = cv2.VideoCapture(-1)
-
-
 def detection(frame):
     frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
     image = Image.fromarray(frame)
