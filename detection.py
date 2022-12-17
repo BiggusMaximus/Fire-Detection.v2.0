@@ -47,10 +47,10 @@ def video():
 
 def gen_frames():
     global camera
-    camera = cv2.VideoCapture(0)
+    camera = cv2.VideoCapture(-1)
     global video_camera
     while True:
-        success, frame = camera.read()  # read the camera frame
+        success, frame = camera.read()  
         if not success:
             break
         else:
