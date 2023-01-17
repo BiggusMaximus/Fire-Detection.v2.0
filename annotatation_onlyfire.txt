@@ -1,0 +1,664 @@
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/10.jpg 578,295,603,386,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/100.jpg 522,249,586,436,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/101.jpg 516,190,586,433,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/102.jpg 480,186,586,427,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1026.jpg 849,375,969,445,0 644,131,878,320,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1027.jpg 850,340,966,444,0 728,398,827,454,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1028.jpg 832,345,925,426,0 709,145,917,329,0 737,360,820,449,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1029.jpg 739,341,917,439,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/103.jpg 496,175,595,432,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1030.jpg 736,335,923,448,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1031.jpg 645,151,926,442,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1032.jpg 713,233,934,423,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1034.jpg 728,309,949,443,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/11.jpg 571,278,606,383,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1101.jpg 641,348,695,426,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1102.jpg 643,292,699,420,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1103.jpg 633,310,696,420,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1107.jpg 639,295,708,425,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1108.jpg 640,359,704,425,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1109.jpg 642,333,706,432,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1110.jpg 643,356,711,426,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1111.jpg 640,341,709,432,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1112.jpg 637,338,714,431,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1113.jpg 623,356,708,428,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1114.jpg 617,340,707,431,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1115.jpg 621,311,704,424,0 662,436,695,567,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1116.jpg 614,297,691,400,0 663,413,700,569,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1117.jpg 621,312,667,400,0 661,389,714,571,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1118.jpg 614,334,663,401,0 660,518,704,570,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1119.jpg 607,280,684,405,0 660,520,695,570,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1120.jpg 477,135,668,422,0 597,425,698,569,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1122.jpg 515,241,660,469,0 640,513,726,569,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1123.jpg 488,97,662,472,0 583,476,698,569,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1124.jpg 494,283,658,517,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/116.jpg 860,282,924,383,0 774,58,962,249,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/117.jpg 781,75,969,256,0 854,307,931,381,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/118.jpg 877,61,976,269,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/119.jpg 890,78,954,258,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/12.jpg 580,183,603,382,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/13.jpg 570,165,604,386,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1345.jpg 118,222,146,256,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1346.jpg 118,219,149,255,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1347.jpg 119,215,151,256,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1348.jpg 112,207,153,256,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1349.jpg 117,208,158,256,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1350.jpg 117,195,151,256,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1351.jpg 115,198,158,258,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1352.jpg 114,199,152,257,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1353.jpg 112,188,162,256,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1354.jpg 114,183,165,258,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1355.jpg 113,180,177,257,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1356.jpg 115,175,170,255,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1357.jpg 115,175,165,256,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1358.jpg 114,172,172,257,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1359.jpg 115,177,169,256,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1360.jpg 120,159,169,256,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1361.jpg 117,176,172,255,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1362.jpg 115,150,175,256,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1363.jpg 119,152,184,252,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1364.jpg 115,153,179,253,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1365.jpg 112,158,184,251,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1366.jpg 111,132,178,255,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1367.jpg 110,149,179,256,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1373.jpg 105,152,201,262,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1374.jpg 104,127,186,257,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1375.jpg 102,153,188,255,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1379.jpg 96,136,198,255,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1380.jpg 93,132,193,260,0 131,48,235,123,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1381.jpg 93,133,201,256,0 109,42,239,138,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1382.jpg 97,118,197,258,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1383.jpg 100,133,198,258,0 164,51,244,96,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1384.jpg 96,124,199,252,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1385.jpg 95,152,203,258,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1390.jpg 105,110,196,254,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/14.jpg 566,180,606,383,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1407.jpg 91,106,201,256,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1408.jpg 96,83,196,257,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1419.jpg 96,138,179,259,0 340,135,366,205,0 187,150,279,274,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1420.jpg 89,127,240,256,0 339,123,365,227,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1421.jpg 96,136,278,275,0 344,122,368,213,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/15.jpg 566,219,604,385,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1550.jpg 565,3,788,458,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1552.jpg 546,1,742,399,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1553.jpg 513,3,721,417,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1554.jpg 550,1,759,433,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1555.jpg 577,3,806,419,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1556.jpg 530,2,748,478,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1557.jpg 523,3,753,480,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1558.jpg 535,4,780,475,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1559.jpg 536,9,784,542,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1565.jpg 757,6,1158,608,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1566.jpg 745,8,1120,599,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1572.jpg 720,240,1104,615,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1573.jpg 711,270,1076,641,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1574.jpg 712,270,1070,627,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1575.jpg 709,268,1077,618,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/16.jpg 557,180,606,380,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1693.jpg 218,186,241,222,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/17.jpg 520,141,605,381,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1719.jpg 205,167,236,219,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1755.jpg 199,159,232,223,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1756.jpg 193,168,229,220,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/18.jpg 460,144,606,384,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1896.jpg 132,24,268,228,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1898.jpg 166,143,259,219,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/19.jpg 518,143,604,384,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1965.jpg 337,206,383,238,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1966.jpg 345,180,386,240,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1967.jpg 341,203,379,240,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1968.jpg 351,177,381,241,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1969.jpg 351,199,382,241,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1970.jpg 341,209,381,242,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1971.jpg 349,189,385,241,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1977.jpg 344,198,384,239,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/1978.jpg 343,188,387,241,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/20.jpg 502,145,606,383,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2019.jpg 323,177,383,240,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2020.jpg 324,184,387,239,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2027.jpg 198,162,245,229,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2028.jpg 208,172,245,229,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2029.jpg 207,162,245,225,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2030.jpg 328,170,381,241,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2031.jpg 334,148,389,243,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2032.jpg 332,139,389,239,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2033.jpg 334,124,387,236,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2034.jpg 328,123,392,239,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2035.jpg 329,120,390,240,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2036.jpg 328,107,394,234,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2037.jpg 322,86,404,243,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2038.jpg 326,146,389,238,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2046.jpg 324,145,389,239,0 427,101,466,229,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2049.jpg 322,156,385,245,0 434,123,467,257,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2050.jpg 318,155,387,256,0 426,124,460,248,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2051.jpg 319,172,390,260,0 428,135,462,232,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/21.jpg 550,157,614,389,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2227.jpg 519,310,577,491,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2228.jpg 683,391,816,483,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2230.jpg 717,366,826,500,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2231.jpg 752,401,837,503,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2232.jpg 763,400,823,498,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2233.jpg 768,407,827,486,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2234.jpg 561,244,737,491,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2235.jpg 551,241,734,487,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2236.jpg 577,259,740,484,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2237.jpg 597,330,725,472,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2238.jpg 613,326,725,470,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2239.jpg 745,352,858,500,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2240.jpg 737,319,857,502,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2241.jpg 744,314,859,492,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2242.jpg 643,381,740,479,0 749,352,884,445,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2243.jpg 643,367,745,481,0 555,273,643,440,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2244.jpg 643,317,737,469,0 549,218,614,441,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2245.jpg 569,242,737,472,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/2246.jpg 509,156,715,465,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/29.jpg 890,172,1090,443,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/30.jpg 931,159,1047,324,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/31.jpg 990,187,1049,287,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/32.jpg 995,126,1104,450,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/33.jpg 997,118,1111,443,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/339.jpg 655,431,771,570,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/34.jpg 1005,123,1111,446,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/340.jpg 687,439,765,559,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/341.jpg 665,427,767,573,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/342.jpg 673,370,771,573,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/343.jpg 675,369,771,564,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/344.jpg 668,362,768,567,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/345.jpg 688,295,770,559,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/35.jpg 997,105,1114,452,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/36.jpg 1017,126,1113,451,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/37.jpg 1013,144,1109,447,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/38.jpg 1026,137,1111,446,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/39.jpg 1035,143,1109,458,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/40.jpg 1030,140,1110,438,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/41.jpg 1050,213,1106,451,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/42.jpg 1018,206,1110,429,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/43.jpg 1040,173,1120,452,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/5.jpg 578,334,603,383,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/541.jpg 613,496,651,548,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/542.jpg 612,476,649,545,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/543.jpg 617,489,648,543,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/544.jpg 593,422,639,478,0 618,515,649,542,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/545.jpg 589,411,642,478,0 617,511,646,542,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/546.jpg 589,420,643,476,0 620,518,646,543,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/547.jpg 591,416,644,479,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/548.jpg 593,418,640,480,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/549.jpg 590,415,640,480,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/550.jpg 594,418,644,478,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/551.jpg 596,420,637,484,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/553.jpg 595,417,642,478,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/554.jpg 594,420,647,483,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/555.jpg 594,417,643,480,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/556.jpg 591,411,641,478,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/557.jpg 587,415,644,475,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/558.jpg 585,416,642,481,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/559.jpg 590,414,648,483,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/560.jpg 591,413,646,483,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/561.jpg 591,420,646,483,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/562.jpg 591,420,647,485,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/593.jpg 646,100,729,293,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/594.jpg 630,190,700,303,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/595.jpg 620,186,709,296,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/596.jpg 641,16,763,301,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/597.jpg 616,178,742,302,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/598.jpg 618,138,706,298,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/599.jpg 601,177,702,300,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/6.jpg 579,340,606,385,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/600.jpg 469,183,523,316,0 579,414,657,483,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/601.jpg 493,253,528,315,0 571,418,672,486,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/602.jpg 486,253,521,314,0 575,426,751,485,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/603.jpg 479,172,532,316,0 573,419,651,489,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/604.jpg 469,130,524,314,0 575,420,724,490,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/605.jpg 496,238,531,317,0 572,418,673,493,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/606.jpg 466,185,530,319,0 572,418,647,491,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/607.jpg 458,93,534,315,0 571,422,728,488,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/608.jpg 469,162,536,318,0 577,425,744,489,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/609.jpg 460,132,532,320,0 580,419,763,487,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/610.jpg 572,419,647,492,0 440,102,535,317,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/611.jpg 458,163,532,315,0 574,423,661,491,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/612.jpg 465,184,545,320,0 575,419,651,490,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/613.jpg 454,81,536,318,0 576,421,680,489,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/614.jpg 447,63,537,317,0 573,418,662,489,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/615.jpg 456,164,539,320,0 574,420,676,488,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/616.jpg 443,90,545,319,0 575,422,690,492,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/617.jpg 456,103,549,319,0 583,423,687,489,0 646,326,761,432,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/618.jpg 623,306,772,435,0 442,108,553,320,0 576,420,748,486,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/619.jpg 442,126,551,323,0 579,418,807,476,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/620.jpg 437,72,547,317,0 571,419,762,486,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/621.jpg 447,107,550,319,0 579,426,789,475,0 609,287,703,413,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/622.jpg 446,63,554,321,0 577,428,831,481,0 620,332,839,417,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/623.jpg 440,49,556,322,0 624,323,841,429,0 574,431,818,481,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/624.jpg 451,31,555,318,0 574,423,807,488,0 626,327,827,420,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/625.jpg 441,27,557,318,0 572,428,816,489,0 636,275,809,427,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/626.jpg 454,157,623,318,0 613,312,723,440,0 567,421,821,489,0 782,355,873,432,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/627.jpg 618,308,877,450,0 446,27,556,318,0 574,427,644,483,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/658.jpg 433,46,574,315,0 594,216,878,419,0 899,318,1029,462,0 706,430,906,499,0 620,452,696,541,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/659.jpg 412,4,593,316,0 580,422,851,490,0 606,208,731,411,0 901,317,1028,419,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/660.jpg 425,2,598,310,0 613,208,731,429,0 916,289,1024,466,0 485,418,848,492,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/661.jpg 450,6,585,318,0 603,137,706,422,0 900,292,1042,463,0 557,418,845,496,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/662.jpg 425,3,584,409,0 911,293,1054,449,0 518,430,850,499,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/663.jpg 432,25,597,329,0 923,216,1102,438,0 532,435,854,500,0 535,338,665,429,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/664.jpg 400,6,539,320,0 580,429,851,490,0 902,316,1034,453,0 323,378,463,487,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/665.jpg 401,7,546,365,0 877,321,1046,478,0 585,122,709,402,0 660,439,852,499,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/666.jpg 435,8,605,316,0 918,298,1017,457,0 675,432,854,490,0 628,266,729,426,0 604,441,674,549,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/667.jpg 547,175,726,451,0 439,8,543,316,0 900,302,1029,448,0 731,460,854,492,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/668.jpg 410,6,529,323,0 880,301,1034,455,0 568,217,769,416,0 572,432,850,491,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/674.jpg 430,82,544,323,0 606,211,734,433,0 846,309,1041,455,0 652,430,857,492,0 582,426,651,481,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/675.jpg 431,90,543,320,0 593,253,734,425,0 860,300,1037,454,0 675,430,851,492,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/7.jpg 578,340,603,386,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/708.jpg 716,419,854,480,0 554,426,603,475,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/709.jpg 711,415,853,479,0 551,426,606,484,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/710.jpg 710,422,850,473,0 551,420,603,483,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/711.jpg 550,423,598,475,0 701,416,893,482,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/720.jpg 707,423,922,500,0 529,420,651,498,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/721.jpg 534,420,632,500,0 709,424,910,504,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/725.jpg 536,421,651,492,0 690,427,923,495,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/736.jpg 491,475,531,531,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/737.jpg 529,441,583,502,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/8.jpg 580,325,607,386,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/9.jpg 579,324,603,382,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/97.jpg 544,367,573,433,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/98.jpg 536,308,575,432,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/99.jpg 535,249,574,435,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire1.jpg 303,175,379,309,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire11.jpg 238,30,330,254,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire140.jpg 301,87,366,365,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire143.jpg 237,37,392,332,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire145.jpg 361,77,425,137,0 31,39,242,144,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire163.jpg 285,144,492,356,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire168.jpg 271,142,454,421,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire17.jpg 390,49,568,158,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire172.jpg 159,43,667,318,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire177.jpg 733,461,963,569,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire18.jpg 366,239,501,361,0 765,395,881,536,0 598,266,734,472,0 338,381,440,503,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire181.jpg 472,284,541,372,0 184,328,356,423,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire190.jpg 149,139,314,244,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire194.jpg 428,160,456,257,0 447,60,482,164,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire196.jpg 2,20,81,81,0 141,144,176,167,0 137,12,194,94,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire197.jpg 258,57,615,412,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire201.jpg 349,75,557,363,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire205.jpg 563,224,587,461,0 521,311,548,455,0 420,288,436,369,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire206.jpg 378,189,407,363,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire213.jpg 314,102,485,221,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire217.jpg 366,140,499,260,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire222.jpg 484,203,546,308,0 55,222,133,335,0 191,241,240,334,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire224.jpg 213,45,351,331,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire229.jpg 218,220,385,314,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire23.jpg 319,54,821,844,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire235.jpg 133,198,298,380,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire238.jpg 268,57,351,251,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire243.jpg 299,102,396,245,0 395,347,595,392,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire246.jpg 264,1,356,262,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire248.jpg 246,51,417,277,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire25.jpg 167,321,286,512,0 263,196,385,313,0 436,9,579,295,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire254.jpg 122,511,274,657,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire273.jpg 228,266,331,335,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire28.jpg 609,434,1458,954,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire281.jpg 28,92,418,350,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire282.jpg 157,91,194,145,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire29.jpg 475,257,601,406,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire291.jpg 170,129,527,229,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire31.jpg 674,460,765,570,0 438,449,520,516,0 287,467,386,516,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire315.jpg 324,253,404,343,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire351.jpg 932,458,1486,845,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire37.jpg 405,245,496,367,0 509,257,661,351,0 669,291,748,357,0 268,222,377,367,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire4.jpg 327,303,677,398,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire41.jpg 509,286,936,522,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire44.jpg 165,178,205,282,0 92,183,145,247,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire45.jpg 139,67,176,110,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire47.jpg 1257,488,1782,804,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire51.jpg 197,21,720,240,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire54.jpg 15,16,140,150,0 195,55,271,153,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire59.jpg 408,296,548,462,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire62.jpg 221,139,310,383,0 706,207,774,370,0 593,207,669,374,0 470,1,546,142,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire66.jpg 465,40,548,164,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire68.jpg 977,62,1057,238,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire70.jpg 225,117,310,201,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire71.jpg 137,19,270,130,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire73.jpg 136,8,334,201,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire80.jpg 10,55,152,149,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire82.jpg 308,163,381,260,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire84.jpg 102,37,271,194,0 429,184,527,282,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire89.jpg 437,233,594,497,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire94.jpg 204,158,343,287,0 384,177,454,304,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire97.jpg 943,610,1170,806,0 1406,573,1660,816,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/Fire99.jpg 310,1,418,154,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_1.jpg 88,120,137,167,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_103.jpg 110,66,185,116,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_105.jpg 123,118,174,173,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_107.jpg 128,70,225,157,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_11.jpg 103,68,166,138,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_110.jpg 108,58,163,102,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_111.jpg 95,39,125,77,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_113.jpg 109,42,180,111,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_115.jpg 150,44,197,82,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_119.jpg 107,88,217,206,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_127.jpg 143,50,249,90,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_130.jpg 65,20,211,77,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_131.jpg 132,71,231,142,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_132.jpg 52,56,84,88,0 94,33,118,79,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_135.jpg 52,55,159,138,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_137.jpg 127,20,178,102,0 57,76,119,121,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_138.jpg 116,38,281,126,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_14.jpg 145,78,236,125,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_144.jpg 99,64,157,108,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_146.jpg 94,46,171,112,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_148.jpg 10,5,108,141,0 59,146,104,225,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_153.jpg 95,16,193,99,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_157.jpg 104,19,211,141,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_158.jpg 121,81,208,135,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_16.jpg 119,51,154,84,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_160.jpg 134,24,198,96,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_162.jpg 47,2,120,95,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_166.jpg 105,16,169,137,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_168.jpg 36,44,131,94,0 50,103,83,127,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_172.jpg 43,94,233,168,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_173.jpg 53,193,131,242,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_174.jpg 30,24,175,101,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_175.jpg 41,13,94,119,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_18.jpg 113,94,130,118,0 83,97,94,114,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_180.jpg 171,63,200,103,0 216,82,235,103,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_181.jpg 101,16,217,155,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_183.jpg 25,94,66,132,0 151,1,175,35,0 98,10,136,38,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_184.jpg 78,70,126,109,0 146,94,160,110,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_185.jpg 119,18,183,123,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_186.jpg 49,18,96,94,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_188.jpg 79,34,185,88,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_19.jpg 83,69,190,138,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_191.jpg 104,48,182,122,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_194.jpg 78,117,111,170,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_195.jpg 90,66,118,130,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_196.jpg 63,86,128,154,0 132,82,196,145,0 14,96,60,153,0 204,50,262,63,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_197.jpg 41,66,105,109,0 149,11,190,60,0 57,161,113,176,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_199.jpg 22,77,127,172,0 134,113,229,154,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_202.jpg 124,27,154,97,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_206.jpg 78,76,176,112,0 175,27,199,83,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_208.jpg 85,86,202,155,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_211.jpg 91,97,108,131,0 91,142,111,154,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_212.jpg 66,56,97,136,0 101,29,184,90,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_214.jpg 139,85,181,138,0 2,56,128,136,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_215.jpg 175,67,218,111,0 98,17,160,66,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_216.jpg 122,78,165,126,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_217.jpg 171,81,204,138,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_219.jpg 90,57,136,147,0 189,120,231,147,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_22.jpg 58,39,167,130,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_227.jpg 50,17,198,86,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_234.jpg 49,1,110,84,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_235.jpg 24,22,208,147,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_237.jpg 168,96,185,140,0 146,96,162,136,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_238.jpg 42,22,121,110,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_244.jpg 74,45,245,140,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_246.jpg 162,72,212,137,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_248.jpg 77,1,160,98,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_249.jpg 73,53,98,98,0 175,88,201,125,0 218,82,248,121,0 187,130,215,150,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_25.jpg 130,64,186,95,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_250.jpg 116,11,223,91,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_251.jpg 104,2,161,124,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_252.jpg 57,93,108,124,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_257.jpg 18,99,121,118,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_259.jpg 135,2,181,62,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_261.jpg 105,60,140,74,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_265.jpg 184,14,259,112,0 137,7,169,45,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_266.jpg 157,74,176,94,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_268.jpg 65,118,120,161,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_269.jpg 151,29,207,106,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_272.jpg 143,60,211,111,0 118,76,142,146,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_274.jpg 84,125,122,164,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_281.jpg 89,121,106,142,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_283.jpg 115,60,162,98,0 155,1,201,38,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_284.jpg 76,43,143,128,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_286.jpg 110,66,169,108,0 78,139,112,151,0 73,78,87,109,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_288.jpg 22,64,174,142,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_290.jpg 107,116,156,133,0 73,44,117,85,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_295.jpg 106,22,161,135,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_297.jpg 67,81,131,115,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_300.jpg 165,49,242,126,0 39,67,101,130,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_309.jpg 152,65,229,104,0 160,106,212,120,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_310.jpg 85,83,103,112,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_315.jpg 150,87,184,135,0 124,144,163,156,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_319.jpg 18,5,211,89,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_32.jpg 77,55,133,102,0 85,128,124,143,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_324.jpg 130,19,208,97,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_326.jpg 62,48,111,84,0 107,92,120,123,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_328.jpg 59,34,183,118,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_331.jpg 105,56,183,116,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_334.jpg 113,50,190,128,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_345.jpg 136,35,221,111,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_353.jpg 87,65,153,118,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_358.jpg 41,85,105,114,0 85,111,187,135,0 192,115,231,130,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_360.jpg 88,38,186,124,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_363.jpg 25,65,143,163,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_364.jpg 51,69,139,130,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_367.jpg 148,53,205,115,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_372.jpg 95,69,162,128,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_377.jpg 36,39,133,118,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_38.jpg 85,135,128,154,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_380.jpg 86,54,142,127,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_382.jpg 150,103,238,140,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_384.jpg 34,72,65,128,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_385.jpg 145,46,177,80,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_388.jpg 62,60,110,156,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_389.jpg 195,98,219,115,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_392.jpg 162,58,203,93,0 70,1,187,47,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_397.jpg 88,96,106,106,0 126,88,214,111,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_399.jpg 48,127,143,165,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_403.jpg 146,15,201,77,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_408.jpg 79,61,199,162,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_41.jpg 62,101,97,125,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_417.jpg 46,85,71,116,0 114,83,152,123,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_42.jpg 65,101,98,123,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_421.jpg 59,51,122,115,0 167,68,253,109,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_428.jpg 158,54,173,83,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_43.jpg 185,58,213,99,0 94,61,125,103,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_430.jpg 42,142,93,165,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_433.jpg 87,37,187,94,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_442.jpg 66,26,119,104,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_449.jpg 131,116,162,152,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_460.jpg 91,43,162,103,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_461.jpg 32,25,131,88,0 159,35,209,94,0 237,45,254,73,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_468.jpg 108,61,179,128,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_469.jpg 33,1,167,86,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_47.jpg 79,36,129,82,0 160,16,258,82,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_473.jpg 89,93,133,124,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_474.jpg 70,14,118,84,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_475.jpg 47,32,146,117,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_481.jpg 79,46,125,111,0 189,52,228,123,0 139,101,176,120,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_483.jpg 84,47,187,95,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_484.jpg 117,20,202,97,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_486.jpg 27,43,104,112,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_487.jpg 94,77,181,143,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_489.jpg 46,7,112,110,0 144,2,267,91,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_49.jpg 147,23,228,63,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_490.jpg 53,51,87,99,0 137,74,160,109,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_493.jpg 85,82,154,104,0 46,78,61,101,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_496.jpg 47,76,163,117,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_498.jpg 82,27,167,155,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_499.jpg 72,67,104,139,0 97,144,157,165,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_50.jpg 167,93,231,186,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_502.jpg 146,24,189,96,0 129,105,152,140,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_508.jpg 98,3,170,91,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_512.jpg 174,45,210,91,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_513.jpg 82,12,201,129,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_517.jpg 88,32,208,144,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_518.jpg 112,66,190,116,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_520.jpg 79,11,222,74,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_527.jpg 58,172,92,183,0 81,128,94,160,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_534.jpg 162,43,184,79,0 136,71,152,91,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_536.jpg 77,30,140,106,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_544.jpg 79,67,120,105,0 108,96,150,137,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_547.jpg 61,20,184,94,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_55.jpg 32,99,141,146,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_551.jpg 82,56,167,107,0 41,79,120,140,0 182,86,209,109,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_552.jpg 134,81,226,117,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_553.jpg 160,48,240,125,0 109,35,127,62,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_554.jpg 91,25,176,112,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_555.jpg 187,57,228,109,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_556.jpg 78,77,144,138,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_559.jpg 182,13,261,156,0 66,59,179,107,0 72,108,103,162,0 151,109,178,164,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_561.jpg 117,84,143,112,0 134,16,171,71,0 185,48,209,113,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_566.jpg 169,91,201,137,0 96,88,123,124,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_570.jpg 176,23,220,74,0 92,26,117,61,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_571.jpg 112,32,149,77,0 160,67,215,89,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_573.jpg 134,75,179,98,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_578.jpg 36,135,72,212,0 127,170,156,217,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_58.jpg 9,78,37,132,0 77,54,143,77,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_580.jpg 115,47,171,101,0 72,66,139,98,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_584.jpg 111,121,144,145,0 47,115,66,133,0 72,93,97,110,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_587.jpg 159,71,176,96,0 121,58,137,76,0 119,103,145,114,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_589.jpg 103,128,127,167,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_59.jpg 51,57,120,123,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_590.jpg 188,59,283,127,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_597.jpg 114,68,163,114,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_598.jpg 55,110,163,179,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_60.jpg 80,69,124,122,0 140,26,209,95,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_601.jpg 97,60,131,110,0 147,40,187,60,0 156,80,169,99,0 141,63,154,79,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_602.jpg 164,59,205,101,0 83,1,163,58,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_604.jpg 121,12,157,63,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_61.jpg 171,52,207,100,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_610.jpg 16,50,299,144,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_611.jpg 63,79,205,142,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_613.jpg 201,75,248,119,0 118,87,134,110,0 1,102,88,121,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_614.jpg 102,32,175,142,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_624.jpg 38,27,265,141,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_626.jpg 83,115,98,155,0 48,111,82,135,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_636.jpg 100,32,133,112,0 158,1,180,45,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_637.jpg 78,38,119,59,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_639.jpg 96,18,193,85,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_641.jpg 63,24,222,144,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_642.jpg 12,95,49,132,0 142,100,158,117,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_644.jpg 141,45,196,111,0 110,13,147,51,0 185,119,210,138,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_645.jpg 80,36,135,106,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_646.jpg 157,90,262,134,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_648.jpg 78,21,165,69,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_649.jpg 25,30,141,166,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_653.jpg 95,67,186,136,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_654.jpg 104,101,175,171,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_658.jpg 24,53,69,91,0 94,63,117,124,0 125,96,152,136,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_659.jpg 153,44,221,95,0 195,98,301,148,0 115,67,168,143,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_660.jpg 162,35,240,81,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_661.jpg 8,21,51,84,0 64,53,242,103,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_662.jpg 132,16,235,113,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_663.jpg 40,63,182,113,0 211,77,265,101,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_664.jpg 96,51,155,140,0 2,26,78,64,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_665.jpg 186,60,291,94,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_667.jpg 110,94,175,127,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_668.jpg 112,18,261,157,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_669.jpg 158,60,198,116,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_670.jpg 144,31,239,165,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_673.jpg 59,17,124,50,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_677.jpg 49,78,83,118,0 114,17,139,46,0 169,59,228,128,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_679.jpg 35,120,98,164,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_680.jpg 81,51,172,113,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_682.jpg 140,42,193,109,0 156,116,180,154,0 212,51,242,85,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_683.jpg 59,79,106,156,0 112,105,138,143,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_685.jpg 78,72,113,95,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_688.jpg 94,36,181,123,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_690.jpg 43,13,174,237,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_694.jpg 136,25,176,56,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_697.jpg 20,114,44,133,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_70.jpg 1,35,51,82,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_700.jpg 158,19,210,110,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_701.jpg 121,56,172,118,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_704.jpg 101,45,159,130,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_705.jpg 61,1,172,167,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_706.jpg 64,114,98,147,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_710.jpg 132,58,236,128,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_711.jpg 140,25,233,103,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_712.jpg 77,105,104,204,0 5,42,183,144,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_714.jpg 126,103,156,131,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_715.jpg 54,81,110,127,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_716.jpg 67,11,131,60,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_718.jpg 101,81,117,118,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_720.jpg 77,51,220,133,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_729.jpg 110,20,138,105,0 146,12,187,76,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_73.jpg 35,57,143,104,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_730.jpg 80,27,127,111,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_736.jpg 1,1,202,58,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_739.jpg 116,13,168,57,0 12,34,61,93,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_743.jpg 72,95,174,131,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_745.jpg 126,66,195,118,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_746.jpg 123,74,166,123,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_748.jpg 56,69,141,157,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_75.jpg 142,50,213,87,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_755.jpg 133,1,194,80,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_758.jpg 81,82,125,143,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_760.jpg 94,17,127,93,0 97,125,167,142,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_761.jpg 122,117,141,140,0 50,133,67,161,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_762.jpg 132,88,178,160,0 219,121,266,155,0 49,113,70,149,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_765.jpg 144,31,241,104,0 34,69,140,104,0 128,108,169,139,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_769.jpg 108,111,195,130,0 195,59,214,83,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_77.jpg 95,96,154,167,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_770.jpg 186,76,247,112,0 2,94,82,127,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_771.jpg 137,3,199,122,0 169,123,189,170,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_774.jpg 53,58,119,128,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_784.jpg 144,39,231,112,0 81,18,115,44,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_787.jpg 95,139,142,189,0 56,136,80,177,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_790.jpg 60,13,92,87,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_791.jpg 89,62,112,80,0 133,72,160,90,0 183,85,218,104,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_792.jpg 139,99,175,156,0 183,74,219,103,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_794.jpg 151,2,216,70,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_798.jpg 146,82,178,118,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_799.jpg 80,36,150,113,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_801.jpg 144,67,223,136,0 64,83,107,145,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_803.jpg 108,60,188,96,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_804.jpg 99,93,130,121,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_805.jpg 83,19,172,79,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_807.jpg 96,76,191,158,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_809.jpg 89,174,169,190,0 51,74,87,89,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_810.jpg 55,98,91,124,0 205,102,229,119,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_811.jpg 147,86,178,164,0 187,145,229,161,0 57,152,140,168,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_812.jpg 76,43,111,88,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_813.jpg 128,95,162,131,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_814.jpg 85,84,105,126,0 162,61,179,123,0 219,49,249,86,0 69,1,125,55,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_815.jpg 37,108,106,162,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_816.jpg 82,72,112,107,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_817.jpg 45,28,219,136,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_824.jpg 108,55,157,101,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_826.jpg 207,52,264,121,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_834.jpg 114,56,141,102,0 128,22,199,88,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_838.jpg 85,95,144,163,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_840.jpg 113,82,178,148,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_841.jpg 66,79,159,128,0 169,87,198,108,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_848.jpg 27,44,58,97,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_852.jpg 115,59,218,169,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_858.jpg 105,49,198,114,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_860.jpg 82,10,141,110,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_865.jpg 39,48,115,118,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_869.jpg 80,79,179,102,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_87.jpg 105,94,173,137,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_870.jpg 161,107,220,130,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_876.jpg 86,7,148,46,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_878.jpg 77,60,116,105,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_880.jpg 51,49,171,119,0 56,126,125,174,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_882.jpg 31,44,92,163,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_885.jpg 144,27,209,78,0 55,38,88,68,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_886.jpg 121,41,199,102,0 209,54,250,88,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_89.jpg 152,72,229,142,0 47,66,100,124,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_890.jpg 194,25,280,106,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_891.jpg 133,74,179,103,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_893.jpg 126,69,223,93,0 8,55,84,79,0 134,14,177,47,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_894.jpg 61,76,155,136,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_897.jpg 187,21,212,58,0 147,27,175,53,0 59,47,77,68,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_899.jpg 111,7,134,69,0 136,2,189,44,0 223,35,253,99,0 159,49,186,102,0 49,69,66,100,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_91.jpg 45,12,80,78,0 102,22,136,79,0 160,46,214,74,0 201,76,223,91,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_93.jpg 71,48,185,109,0 195,64,226,98,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/FireTRAIN_image_98.jpg 154,59,189,95,0 118,82,155,116,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/fire_train_img_346.jpg 144,110,167,190,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/fire_train_img_348.jpg 141,89,163,191,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/fire_train_img_349.jpg 135,71,163,193,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/fire_train_img_350.jpg 135,78,160,189,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/fire_train_img_351.jpg 132,84,162,190,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/fire_train_img_352.jpg 122,82,163,187,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/fire_train_img_353.jpg 129,38,161,185,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/fire_train_img_354.jpg 132,51,162,188,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/fire_train_img_355.jpg 139,90,161,193,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/fire_train_img_381.jpg 134,137,164,209,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/fire_train_img_606.jpg 139,97,147,122,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/fire_train_img_607.jpg 138,105,150,122,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/fire_train_img_608.jpg 135,103,147,123,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/fire_train_img_610.jpg 133,97,148,123,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/fire_train_img_611.jpg 139,104,148,125,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/fire_train_img_614.jpg 136,94,146,122,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/fire_train_img_624.jpg 134,94,145,121,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/fire_train_img_626.jpg 132,94,143,112,0 
+G:/Program/All/Fire Detection.v2.0/dataset/onlyfire/fire_train_img_665.jpg 71,24,140,161,0 

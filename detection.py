@@ -47,11 +47,13 @@ def video():
 
 def gen_frames():
     global camera
-    camera = cv2.VideoCapture(-1)
+    camera = cv2.VideoCapture(0)
     global video_camera
+    print("Start Cmera")
     while True:
         success, frame = camera.read()  
         if not success:
+            print("cant capture")
             break
         else:
             frame = predict.detection(frame)
